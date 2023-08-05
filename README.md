@@ -1,2 +1,2 @@
 # Sprint_Planner
-Explore this user-friendly planner tool for importing story lists. Draw insights and automatically plot informational graphs. Stay organized and be on top of the sprint effortlessly!
+Discover a user-friendly planner tool that simplifies importing story lists, providing insights, and auto-plotting graphs. Stay organized and effortlessly manage your sprints with ease!
